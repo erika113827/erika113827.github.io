@@ -1,7 +1,3 @@
-<IfModule mime_module>
-    AddType application/x-httpd-php .php
-    AddType application/x-httpd-php-source .phps
-</IfModule>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
